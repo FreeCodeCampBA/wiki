@@ -1,5 +1,7 @@
 # Wiki
-Recursos complementarios **gratuitos**
+Colección de recursos complementarios **gratuitos**.  
+
+Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hello-world/#pr).
 
 **Tabla de Contenidos**
 
@@ -192,12 +194,15 @@ Recursos complementarios **gratuitos**
 - [Atlassian's Git Tutorials](https://es.atlassian.com/git/tutorials/)
 - [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
 - [Git Immersion](http://gitimmersion.com/)
-- [Introduction to GitHub](https://github.github.com/on-demand/intro-to-github/)
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
+
+### GitHub
+- [Introduction to GitHub](https://github.github.com/on-demand/intro-to-github/)
+- [GitHub Guides](https://guides.github.com/)
 
 ### Otros 
 - [Oh shit, git!: solucioná los problemas más comunes](http://ohshitgit.com/)
-- [git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+- [GitHub's Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 - [Tower's Version Control Best Practices](https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large02.png)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 
