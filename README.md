@@ -37,11 +37,15 @@ Recursos complementarios **gratuitos**
 
 ---
 
+## API
+- [What is an API? In English, please](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.ba2wq6oag)
+
+---
+
 ## Bases de Datos
 - [Relational Databases for Dummies](https://code.tutsplus.com/tutorials/relational-databases-for-dummies--net-30244)
 
 ### SQL
-
 - [Khan Academy - Introducción a SQL: consulta y gestión de los datos](https://es.khanacademy.org/computing/computer-programming/sql)
 - [SQLZOO: Learn SQL using: SQL Server, Oracle, MySQL, DB2, and PostgreSQL.](http://sqlzoo.net/)
 - [SQLBolt: Learn SQL with simple, interactive exercises](https://sqlbolt.com/)
@@ -49,7 +53,6 @@ Recursos complementarios **gratuitos**
 - [Stanford's Self-Paced DB Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
 ### MongoDB
-
 - [An Introduction to MongoDB](https://scotch.io/tutorials/an-introduction-to-mongodb)
 - [learnyoumongo: A workshopper for MongoDB](https://github.com/evanlucas/learnyoumongo)
 - [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
@@ -103,5 +106,264 @@ Recursos complementarios **gratuitos**
 
 ### Otros
 - [Emoji-CSS](https://afeld.github.io/emoji-css/)
+
+---
+
+## Cursos
+- [Harvard's CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [Frontend Masters Crash Course](https://frontendmasters.com/hi/courses/crash-course)
+- [University of Helsinki's Programming MOOCs](http://mooc.fi/english.html)
+- [From NAND to Tetris: Building a Modern Computer From First Principles](http://www.nand2tetris.org/)
+
+### Otros
+- [The 50 best free online university courses according to data](https://medium.freecodecamp.com/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac#.fzvnaxd3m)
+
+---
+
+## DevOps
+
+### Docker
+- [Get Started with Docker](https://www.docker.com/products/overview#/h_tutorial)
+- [Learn Docker & Containers using Interactive Browser-Based Labs](https://www.katacoda.com/courses/docker/)
+- [Node With Docker - Continuous Integration and Delivery](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/)
+- [Node Hero - How to Deploy Node.js with Heroku or Docker](https://blog.risingstack.com/node-hero-deploy-node-js-heroku-docker/)
+
+---
+
+## DevTools
+
+### Chrome
+- [Advanced Chrome DevTools](https://courses.nodecasts.io/courses/advanced-chrome-devtools)
+- [CodeSchool's Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
+
+### Firefox
+- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+
+---
+
+## Editor de Texto
+
+### Atom
+- [Atom Flight Manual](http://flight-manual.atom.io/)
+- [Atom for Web Developers](http://mherman.org/blog/2016/08/16/atom-for-web-developers/)
+- [Atom treasures: a list of Atom plugins I can’t live without](https://medium.freecodecamp.com/atom-treasures-82a64ac391c#.4j6jkrlfl)
+- [Atom Keyboard Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+
+### General
+- [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+
+---
+
+## Estudiantes
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [Free for students: Professional developer tools from JetBrains](https://www.jetbrains.com/student/)
+- [Free Developer Offers | Visual Studio](https://www.visualstudio.com/products/free-developer-offers-vs)
+
+---
+
+## Estructuras de Datos
+- [Data Structures in 5 Minutes (YouTube)](https://www.youtube.com/playlist?list=PLlipSLnrfrUlclWAcvmyxcn6R7tzwALhM)
+- [Itsy Bitsy Data Structures: super simplified examples of many of the common data structures written in easy to read JavaScript](https://github.com/thejameskyle/itsy-bitsy-data-structures)
+
+--- 
+
+## Git
+
+### Tutoriales 
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [Learn Git Branching](http://learngitbranching.js.org/)
+- [Tower's Git & Version Control Tutorials](https://www.git-tower.com/learn/)
+- [Atlassian's Git Tutorials](https://es.atlassian.com/git/tutorials/)
+- [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
+- [Git Immersion](http://gitimmersion.com/)
+- [Introduction to GitHub](https://github.github.com/on-demand/intro-to-github/)
+- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
+
+### Otros 
+- [Oh shit, git!: solucioná los problemas más comunes](http://ohshitgit.com/)
+- [git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+- [Tower's Version Control Best Practices](https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large02.png)
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+
+---
+
+## Guías sobre desarrollo web
+- [CodeSchool's Beginner’s Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)
+- [Web Field Manual](http://webfieldmanual.com/code.html)
+
+---
+
+## HTML5
+- [HTML5 Introduction](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
+- [HTML Dog's HTML Tutorials](http://www.htmldog.com/guides/html/)
+- [SHay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+
+---
+
+## HTTP
+- [How I learned to (stop worrying and) love HTTP](https://codewords.recurse.com/issues/two/how-i-learned-to-stop-worrying-and-love-http)
+- [HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+- [HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+- [HTTP Status COdes in 60 Seconds](https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317)
+
+### HTTPS
+- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+
+---
+
+## Imágenes 
+- [Unsplash: free high-resolution photos](https://unsplash.com/)
+- [Stocky: download free photo, video, graphics and music for commercial and personal use](http://stocky.pro/)
+
+---
+
+## Ionic
+- [Thinkster's Ionic courses](https://thinkster.io/topics/ionic)
+
+---
+
+## Lecturas Recomendadas
+- [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US)
+- [Adrian KosmaczewskiFollow: Ser Programador Después De Los 40](https://medium.com/@akosma/ser-programador-despu%C3%A9s-de-los-40-7daff770219e#.x1yhp5jsa)
+- [Firehose Blog: The Key To Accelerating Your Coding Skills Passing the Inflection Point and Becoming a Self-Reliant Web Developer](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+- [Jr. Developers #1: Pull Requests & You](https://medium.com/@mscccc/jr-developers-1-pull-requests-you-39a11c3bdd94#.4o4e0zguh)
+- [Firehose Blog: 35 Bad Programming Habits You Should Drop Right Now](http://blog.thefirehoseproject.com/posts/35-bad-programming-habits-you-should-drop-right-now/)
+
+---
+
+## Libros
+- [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.eoj2yhk23)
+- [Front-End Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+- [Packt Free Learning (1 eBook gratuito por día)](https://www.packtpub.com/packt/offers/free-learning)
+
+### Git
+- [Pro Git](https://git-scm.com/book/en/v2)
+
+### JavaScript
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Eloquent JavaScript — The Annotated Version](http://watchandcode.com/courses/eloquent-javascript-the-annotated-version)
+- [You Don't Know JS: A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS) 
+- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+- [Simplified JavaScript Jargon](http://jargon.js.org/)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
+- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf)
+- [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [Speaking JavaScript](http://speakingjs.com/es5/)
+- [JSbooks](http://jsbooks.revolunet.com/)
+
+### ES6
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
+- [Exploring ES6](http://exploringjs.com/es6/)
+
+### Programación Funcional
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+- [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/)
+
+---
+
+## MEAN Stack
+- [Thinkster's MEAN Stack courses](https://thinkster.io/topics/mean)
+- [Make A Real-Time Chat Room using Node Webkit, Socket.io, and MEAN](https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean)
+
+---
+
+## Patrones de Diseño
+
+### MVC
+- [Model-View-Controller (MVC) Explained Through Ordering Drinks At The Bar](https://medium.freecodecamp.com/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053#.h325x57g1)
+- [Model-View-Controller (MVC) Explained -- With Legos](https://realpython.com/blog/python/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
+- [What Are The Benefits of MVC?](http://blog.iandavis.com/2008/12/what-are-the-benefits-of-mvc/)
+- [Model–view–controller](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+
+---
+
+## Podcasts
+
+### General
+- [CodeNewbie](http://www.codenewbie.org/podcast)
+- [This Developer's Life: a personal and sometimes emotional look into the lives of web developers](http://thisdeveloperslife.com/)
+- [Hanselminutes Podcast by Scott Hanselman: Scott brings on prestigious guests for each episode and discusses their work and how it is influencing the world of tech and development](http://hanselminutes.com/)
+- [On Computing: Grady Brooch uses IEEE Software magazine as a reference in order to discuss the effect that computing is having on our species](https://www.computer.org/portal/web/computingnow/oncomputing)
+- [Giant Robots Smashing Into Other Giant Robots: a weekly podcast from Thoughtbot discussing the business of great software products](http://giantrobots.fm/)
+- [The Web Ahead: Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up](http://5by5.tv/webahead)
+
+### Software Engineering
+- [Software Engineering Radio](http://www.se-radio.net/)
+- [Software Engineering Daily](http://softwareengineeringdaily.com/category/podcast/)
+
+### JavaScript
+- [JavaScript Air: the live broadcast podcast all about JavaScript](https://javascriptair.com/)
+- [JavaScript Jabber: a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.](https://devchat.tv/js-jabber)
+- [FiveJS: the latest news in the JavaScript community](https://fivejs.codeschool.com/)
+
+### Node.js
+- [NodeUp: A Node.js Podcast](http://nodeup.com/)
+
+### FLOSS / Open Source
+- [The Changelog: Open Source moves fast. Keep up](https://changelog.com/podcast/)
+- [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+
+---
+
+## Programación
+- [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.fkjn379g5)
+
+### Functional Programming
+- [An Introduction to Functional Programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+
+### JavaScript
+- [JavaScript For Cats](http://jsforcats.com/)
+- [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+- [A Dive Into Plain JavaScript](http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
+- [MDN's A re-introduction to JavaScript (JS tutorial) - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [MDN's Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+- [HTML Dog's JavaScript Tutorials](http://www.htmldog.com/guides/javascript/)
+- [The Two Pillars of JavaScript — Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.uz0ofsrwu)
+- [The Two Pillars of JavaScript — Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.bert2g85a)
+- [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.9giapnn2g)  
+- [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+- [JavaScript: The Right Way](http://jstherightway.org/)
+- [SuperHero.js](http://superherojs.com/)
+- [JavaScript Garden: a growing collection of documentation about the most quirky parts of the JavaScript programming language](http://bonsaiden.github.io/JavaScript-Garden/)
+
+#### jQuery
+- [Try jQuery: Learn the basic building blocks of jQuery](http://try.jquery.com/)
+
+#### JavaScript ES6
+- [How to Learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.sjqekkj4o)
+- [JavaScript ES6](https://courses.nodecasts.io/courses/javascript-es6)  
+
+### Node.js
+- [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
+- [Learn Node.js: A free interactive course for Node beginners](https://hyperdev.com/help/learn-node-js-free-beginner-course/)
+- [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+- [Node Hero - Your First Node.js HTTP Server](https://blog.risingstack.com/your-first-node-js-http-server/)
+- [The Node Beginner Book](http://www.nodebeginner.org/)
+- [Felix's Node.js Guide](http://nodeguide.com/)
+- [NodeSchool: Open source workshops that teach web software skills](http://nodeschool.io/)
+- [First Node App](https://s3.amazonaws.com/scotchio/First-Node-App.pdf)
+- [Introduction to Node.js](https://courses.nodecasts.io/courses/introduction-to-node-js)
+- [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-development)
+- [Node JS Architecture – Single Threaded Event Loop](http://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
+
+#### Express.js
+- [Express.js](https://courses.nodecasts.io/courses/express-js)  
+
+### npm
+- [Getting Started](https://docs.npmjs.com/getting-started/what-is-npm)
+- [Introduction to npm](https://courses.nodecasts.io/courses/introduction-to-npm)
+- [Node Hero - Using NPM: Tutorial](https://blog.risingstack.com/node-hero-npm-tutorial/)
+
+### React.js
+- [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+- [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+- [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
+- [Thinkster's React courses](https://thinkster.io/topics/react)
+
+### Reactive Programming
+- [An Introduction to Reactive Programming](https://codewords.recurse.com/issues/two/an-introduction-to-reactive-programming)
 
 ---
