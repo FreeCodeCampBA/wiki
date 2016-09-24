@@ -60,6 +60,15 @@ Recursos complementarios **gratuitos**
 
 ---
 
+## Charlas Recomendadas
+- [Raquel Vélez: Evolution of a Developer | JSConf EU 2014](https://www.youtube.com/watch?v=rP1q6oIVco4)
+- [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [The myth of the “Real JavaScript Developer” – Brenna O'Brien / Front-Trends 2016](https://www.youtube.com/watch?v=Xt5qpbiqw2g)
+- [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+- [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
+
+---
+
 ## Coding Challenges
 - [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
@@ -142,6 +151,12 @@ Recursos complementarios **gratuitos**
 
 ---
 
+## Diseño Web
+- [Hack Design: Learn at your own pace. With articles, videos, and tutorials curated by some of the world's best designers](https://hackdesign.org/)
+- [Design Principles](http://learndesignprinciples.com/)
+
+---
+
 ## Editor de Texto
 
 ### Atom
@@ -209,6 +224,14 @@ Recursos complementarios **gratuitos**
 
 ### HTTPS
 - [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+
+---
+
+## Íconos
+- [Flaticon](http://www.flaticon.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Devicon: a set of icons representing programming languages](http://devicon.fr/)
+- [ionicons: The premium icon font for Ionic Framework](http://ionicons.com/)
 
 ---
 
@@ -367,3 +390,69 @@ Recursos complementarios **gratuitos**
 - [An Introduction to Reactive Programming](https://codewords.recurse.com/issues/two/an-introduction-to-reactive-programming)
 
 ---
+
+## Recursos útiles para los proyectos
+- [Can I Use](http://caniuse.com/)
+- [Modernizr](https://modernizr.com/)
+- [Normalize.css](http://necolas.github.io/normalize.css/)
+
+---
+
+## Referencias
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+
+---
+
+## Regex
+- [RegexOne](http://regexone.com/)
+- [RegExr](http://regexr.com/)
+- [regex101](https://regex101.com/)
+
+---
+
+## Seguridad
+
+### Criptografía
+- [How Encryption Works In Your Web Browser](http://www.wimp.com/how-encryption-works-in-your-web-browser/)
+- [An introduction to cryptography and cryptanalysis](http://math.scu.edu/~eschaefe/book.pdf)
+
+### Ingeniería Reversa
+- [Reverse Engineering for Beginners (libro)](https://beginners.re/)
+
+---
+
+## Terminal
+
+- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+- [An Introduction to the Linux Terminal](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+- [Conquering the Command Line: Unix and Linux Commands for Developers](http://conqueringthecommandline.com/book)
+- [The Bash Guide](http://guide.bash.academy/)
+- [LinuxCommand.org](http://linuxcommand.org/)
+- [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
+
+---
+
+## Técnicas de Estudio
+- [The Easy Way To Learn Hard Stuff](https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.lkqe3u6xo)
+- [Learn Faster with The Feynman Technique](https://www.youtube.com/watch?v=FrNqSLPaZLc)
+- [How To Learn Technical Things](http://jamison.dance/07-04-2016/how-to-learn-technical-things/)
+
+---
+
+## Universidades
+- [University Of The People](http://www.uopeople.edu/programs/)
+- [Open Source Society University: Path to a free self-taught education in Computer Science](https://ossu.firebaseapp.com/)
+
+---
+
+## Utilidades
+- [Really Simple HTTP Server with Python](http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python)
+- [MongoDB Database-As-A-Service (500Mb gratis)](https://mlab.com/)
+
+---
+
+## Visualización de Datos
+
+### D3
+- [Learn D3.js Basics By Planting A Vegetable Garden](https://www.rtfmanual.io/d3garden/)
