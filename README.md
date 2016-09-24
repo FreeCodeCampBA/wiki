@@ -1,11 +1,13 @@
 # Wiki
 Recursos complementarios **gratuitos**
 
-**TOC** *generada con [DocToc](https://github.com/thlorenz/doctoc-web)*
+**Tabla de Contenidos**
 
 - [Wiki](#)
 	- [Accesibilidad](#)
-  
+
+---
+
 ## Accesibilidad
 - [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 
@@ -52,5 +54,54 @@ Recursos complementarios **gratuitos**
 - [learnyoumongo: A workshopper for MongoDB](https://github.com/evanlucas/learnyoumongo)
 - [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 - [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
+
+---
+
+## Coding Challenges
+- [Codewars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [exercism.io](http://exercism.io/)
+- [CodeEval](https://www.codeeval.com/)
+- [Topcoder](https://www.topcoder.com/)
+- [Project Euler](https://projecteuler.net/)
+
+--- 
+
+## Coding Interviews Preparation
+- [Topcoder's Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+- [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/index.php)
+- [HackerEarth Academy](https://learn.hackerearth.com/)
+- [HiredInTech](https://www.hiredintech.com/)
+- [Firecode.io](https://www.firecode.io/)
+
+---
+
+## CSS
+
+### Introductorios
+- [CSS Floats Explained By Riding An Escalator](https://medium.freecodecamp.com/css-floats-explained-by-riding-an-escalator-57fa55232333#.x7oxjih6p)
+- [Code Briefing: CSS positioning explained by building an ice cream sundae](https://medium.freecodecamp.com/code-briefing-css-positioning-explained-by-building-an-ice-cream-sundae-f965f139deb9#.x2i3e0cz1)
+- [MarkSheet](http://marksheet.io/)
+- [HTML Dog's CSS Tutorials](http://www.htmldog.com/guides/css/)
+
+### Avanzados 
+- [Scalable and Modular Architecture for CSS: A flexible guide to developing sites small and large.](https://smacss.com/book/)
+
+### Posicionamiento
+- [CSS Positioning Explained By Building An Ice Cream Sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9#.qke4y2jlr)
+- [Learn CSS positioning by building an ice cream sundae (interactivo)](https://www.rtfmanual.io/csssundae/)  
+
+### Performance
+- [Writing efficient CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS)
+
+### Flexbox 
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Froggy](http://flexboxfroggy.com/#es)
+
+### Generadores
+- [Loading.io: Build Your Ajax Loading Icons with SVG / CSS / GIF](http://loading.io/)
+
+### Otros
+- [Emoji-CSS](https://afeld.github.io/emoji-css/)
 
 ---
