@@ -3,7 +3,7 @@ Colección de recursos complementarios **gratuitos**.
 
 Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hello-world/#pr).  
 
-  
+<br>
 
 **Tabla de Contenidos**
 
