@@ -325,6 +325,7 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ## Imágenes 
 - [Unsplash: free high-resolution photos](https://unsplash.com/)
 - [Stocky: download free photo, video, graphics and music for commercial and personal use](http://stocky.pro/)
+- [Pexels: free stock photos](https://www.pexels.com/)
 
 <br>
 
