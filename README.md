@@ -3,7 +3,7 @@ Colección de recursos complementarios **gratuitos**.
 
 Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hello-world/#pr).  
 
-<br>
+
 
 **Tabla de Contenidos**
 
@@ -89,13 +89,11 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 	- [Visualización de Datos](#)
 		- [D3](#)
 
-<br>
-<br>
+
 
 ## Accesibilidad
 - [Accessibility Guidelines](http://accessibility.voxmedia.com/)  
 
-<br>
 
 ## Algoritmos
 - [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
@@ -113,18 +111,15 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Algorithms in plain English: time complexity and Big-O notation](https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.5d3rj8oeq)
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
-<br>
 
 ## AngularJS
 - [scotch.io's Getting Started with Angular 2](https://school.scotch.io/getting-started-with-angular-2)
 - [Thinkster's AngularJS courses](https://thinkster.io/topics/angular)
 
-<br>
 
 ## API
 - [What is an API? In English, please](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.ba2wq6oag)
 
-<br>
 
 ## Bases de Datos
 - [Relational Databases for Dummies](https://code.tutsplus.com/tutorials/relational-databases-for-dummies--net-30244)
@@ -142,7 +137,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 - [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 
-<br>
 
 ## Charlas Recomendadas
 - [Raquel Vélez: Evolution of a Developer | JSConf EU 2014](https://www.youtube.com/watch?v=rP1q6oIVco4)
@@ -151,7 +145,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 - [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
 
-<br>
 
 ## Coding Challenges
 - [Codewars](https://www.codewars.com/)
@@ -161,7 +154,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Topcoder](https://www.topcoder.com/)
 - [Project Euler](https://projecteuler.net/)
 
-<br> 
 
 ## Coding Interviews Preparation
 - [Topcoder's Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
@@ -170,7 +162,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [HiredInTech](https://www.hiredintech.com/)
 - [Firecode.io](https://www.firecode.io/)
 
-<br>
 
 ## CSS
 
@@ -200,7 +191,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ### Otros
 - [Emoji-CSS](https://afeld.github.io/emoji-css/)
 
-<br>
 
 ## Cursos
 - [Harvard's CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
@@ -212,7 +202,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ### Otros
 - [The 50 best free online university courses according to data](https://medium.freecodecamp.com/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac#.fzvnaxd3m)
 
-<br>
 
 ## DevOps
 
@@ -222,7 +211,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Node With Docker - Continuous Integration and Delivery](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/)
 - [Node Hero - How to Deploy Node.js with Heroku or Docker](https://blog.risingstack.com/node-hero-deploy-node-js-heroku-docker/)
 
-<br>
 
 ## DevTools
 
@@ -233,13 +221,11 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ### Firefox
 - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
-<br>
 
 ## Diseño Web
 - [Hack Design: Learn at your own pace. With articles, videos, and tutorials curated by some of the world's best designers](https://hackdesign.org/)
 - [Design Principles](http://learndesignprinciples.com/)
 
-<br>
 
 ## Editor de Texto
 
@@ -252,20 +238,17 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ### General
 - [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 
-<br>
 
 ## Estudiantes
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [Free for students: Professional developer tools from JetBrains](https://www.jetbrains.com/student/)
 - [Free Developer Offers | Visual Studio](https://www.visualstudio.com/products/free-developer-offers-vs)
 
-<br>
 
 ## Estructuras de Datos
 - [Data Structures in 5 Minutes (YouTube)](https://www.youtube.com/playlist?list=PLlipSLnrfrUlclWAcvmyxcn6R7tzwALhM)
 - [Itsy Bitsy Data Structures: super simplified examples of many of the common data structures written in easy to read JavaScript](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 
-<br>
 
 ## Git
 
@@ -288,20 +271,17 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Tower's Version Control Best Practices](https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large02.png)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 
-<br>
 
 ## Guías sobre desarrollo web
 - [CodeSchool's Beginner’s Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)
 - [Web Field Manual](http://webfieldmanual.com/code.html)
 
-<br>
 
 ## HTML5
 - [HTML5 Introduction](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
 - [HTML Dog's HTML Tutorials](http://www.htmldog.com/guides/html/)
 - [SHay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
-<br>
 
 ## HTTP
 - [How I learned to (stop worrying and) love HTTP](https://codewords.recurse.com/issues/two/how-i-learned-to-stop-worrying-and-love-http)
@@ -312,7 +292,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ### HTTPS
 - [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
 
-<br>
 
 ## Íconos
 - [Flaticon](http://www.flaticon.com/)
@@ -324,19 +303,22 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Material Design Icons](https://materialdesignicons.com/)
 - [Elusive Icons](http://elusiveicons.com/)
 
-<br>
+
+## Inteligencia Artificial
+
+### Machine Learning
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
 
 ## Imágenes 
 - [Unsplash: free high-resolution photos](https://unsplash.com/)
 - [Stocky: download free photo, video, graphics and music for commercial and personal use](http://stocky.pro/)
 - [Pexels: free stock photos](https://www.pexels.com/)
 
-<br>
 
 ## Ionic
 - [Thinkster's Ionic courses](https://thinkster.io/topics/ionic)
 
-<br>
 
 ## Lecturas Recomendadas
 - [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US)
@@ -345,7 +327,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Jr. Developers #1: Pull Requests & You](https://medium.com/@mscccc/jr-developers-1-pull-requests-you-39a11c3bdd94#.4o4e0zguh)
 - [Firehose Blog: 35 Bad Programming Habits You Should Drop Right Now](http://blog.thefirehoseproject.com/posts/35-bad-programming-habits-you-should-drop-right-now/)
 
-<br>
 
 ## Libros
 - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.eoj2yhk23)
@@ -377,13 +358,11 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/)
 
-<br>
 
 ## MEAN Stack
 - [Thinkster's MEAN Stack courses](https://thinkster.io/topics/mean)
 - [Make A Real-Time Chat Room using Node Webkit, Socket.io, and MEAN](https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean)
 
-<br>
 
 ## Patrones de Diseño
 
@@ -393,7 +372,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [What Are The Benefits of MVC?](http://blog.iandavis.com/2008/12/what-are-the-benefits-of-mvc/)
 - [Model–view–controller](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 
-<br>
 
 ## Podcasts
 
@@ -421,7 +399,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [The Changelog: Open Source moves fast. Keep up](https://changelog.com/podcast/)
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 
-<br>
 
 ## Programación
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.fkjn379g5)
@@ -481,26 +458,22 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ### Reactive Programming
 - [An Introduction to Reactive Programming](https://codewords.recurse.com/issues/two/an-introduction-to-reactive-programming)
 
-<br>
 
 ## Recursos útiles para los proyectos
 - [Can I Use: provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers](http://caniuse.com/)
 - [Modernizr](https://modernizr.com/)
 - [Normalize.css](http://necolas.github.io/normalize.css/)
 
-<br>
 
 ## Referencias
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
-<br>
 
 ## Regex
 - [RegexOne](http://regexone.com/)
 - [RegExr](http://regexr.com/)
 - [regex101](https://regex101.com/)
 
-<br>
 
 ## Seguridad
 
@@ -511,7 +484,6 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ### Ingeniería Reversa
 - [Reverse Engineering for Beginners (libro)](https://beginners.re/)
 
-<br>
 
 ## Terminal
 
@@ -523,26 +495,22 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [LinuxCommand.org](http://linuxcommand.org/)
 - [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
 
-<br>
 
 ## Técnicas de Estudio
 - [The Easy Way To Learn Hard Stuff](https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.lkqe3u6xo)
 - [Learn Faster with The Feynman Technique](https://www.youtube.com/watch?v=FrNqSLPaZLc)
 - [How To Learn Technical Things](http://jamison.dance/07-04-2016/how-to-learn-technical-things/)
 
-<br>
 
 ## Universidades
 - [University Of The People](http://www.uopeople.edu/programs/)
 - [Open Source Society University: Path to a free self-taught education in Computer Science](https://ossu.firebaseapp.com/)
 
-<br>
 
 ## Utilidades
 - [Really Simple HTTP Server with Python](http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python)
 - [MongoDB Database-As-A-Service (500Mb gratis)](https://mlab.com/)
 
-<br>
 
 ## Visualización de Datos
 
