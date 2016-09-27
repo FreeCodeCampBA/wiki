@@ -319,6 +319,10 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Font Awesome](http://fontawesome.io/)
 - [Devicon: a set of icons representing programming languages](http://devicon.fr/)
 - [ionicons: The premium icon font for Ionic Framework](http://ionicons.com/)
+- [Glyphicons](http://getbootstrap.com/components/#glyphicons)
+- [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)
+- [Material Design Icons](https://materialdesignicons.com/)
+- [Elusive Icons](http://elusiveicons.com/)
 
 <br>
 
