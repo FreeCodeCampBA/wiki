@@ -19,6 +19,7 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 	- [Charlas Recomendadas](#)
 	- [Coding Challenges](#)
 	- [Coding Interviews Preparation](#)
+	- [Computación](#)
 	- [CSS](#)
 		- [Introductorios](#)
 		- [Avanzados](#)
@@ -84,8 +85,10 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 		- [Ingeniería Reversa](#)
 	- [Terminal](#)
 	- [Técnicas de Estudio](#)
+	- [UI](#)
 	- [Universidades](#)
 	- [Utilidades](#)
+	- [UX](#)
 	- [Visualización de Datos](#)
 		- [D3](#)
 
@@ -161,6 +164,10 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [HackerEarth Academy](https://learn.hackerearth.com/)
 - [HiredInTech](https://www.hiredintech.com/)
 - [Firecode.io](https://www.firecode.io/)
+
+
+## Computación
+- [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 
 ## CSS
@@ -348,7 +355,7 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
 - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 - [Speaking JavaScript](http://speakingjs.com/es5/)
-- [JSbooks](http://jsbooks.revolunet.com/)
+- [JSbooks: muchos libros gratuitos para descargar](http://jsbooks.revolunet.com/)
 
 ### ES6
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
@@ -454,6 +461,7 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
 - [Thinkster's React courses](https://thinkster.io/topics/react)
+- [React/Redux links: curated tutorial and resource links on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 
 ### Reactive Programming
 - [An Introduction to Reactive Programming](https://codewords.recurse.com/issues/two/an-introduction-to-reactive-programming)
@@ -502,6 +510,11 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [How To Learn Technical Things](http://jamison.dance/07-04-2016/how-to-learn-technical-things/)
 
 
+## UI
+- [Open color: a color scheme for UI design](https://yeun.github.io/open-color/)
+- [coolors: color schemes generator](https://coolors.co/)
+
+
 ## Universidades
 - [University Of The People](http://www.uopeople.edu/programs/)
 - [Open Source Society University: Path to a free self-taught education in Computer Science](https://ossu.firebaseapp.com/)
@@ -510,6 +523,10 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 ## Utilidades
 - [Really Simple HTTP Server with Python](http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python)
 - [MongoDB Database-As-A-Service (500Mb gratis)](https://mlab.com/)
+
+
+## UX
+- [edX's Introduction to User Experience](https://www.edx.org/course/introduction-user-experience-michiganx-ux501x)
 
 
 ## Visualización de Datos
