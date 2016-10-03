@@ -234,6 +234,9 @@ Para colaborar, abrir un [Pull Request](https://guides.github.com/activities/hel
 - [Unsplash: free high-resolution photos](https://unsplash.com/)
 - [Stocky: download free photo, video, graphics and music for commercial and personal use](http://stocky.pro/)
 - [Pexels: free stock photos](https://www.pexels.com/)
+- [Unsplash It: beautiful placeholders using images from unsplash](https://unsplash.it/)
+- [LoremFlickr: placeholder images for every case, web or print, on almost any subject, in any size](http://loremflickr.com/)
+- [placehold.it: a quick and simple image placeholder service](https://placehold.it/)
 
 
 ## Ionic
