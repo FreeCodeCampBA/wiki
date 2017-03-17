@@ -1,6 +1,6 @@
 # :books: Wiki
 
-> Colección de recursos complementarios **gratuitos**  
+> Colección de recursos complementarios **gratuitos**.  
 
 ### Para colaborar, abrir un **[`Pull Request`](https://guides.github.com/activities/hello-world/#pr)**.  
 
