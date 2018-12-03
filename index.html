@@ -38,121 +38,243 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header>
+    <input
+      type="radio"
+      name="lang"
+      class="selector selector--es"
+      id="lang--es"
+    />
+    <input
+      type="radio"
+      name="lang"
+      class="selector selector--en"
+      id="lang--en"
+    />
+    <input
+      type="radio"
+      name="lang"
+      class="selector selector--all"
+      id="lang--all"
+      checked
+    />
+
+    <header class="menu">
       Header
-      <nav>Nav</nav>
+      <nav class="menu__lang">
+        <section class="menu__lang__selection">
+          <ul>
+            <li class="menu__lang__selection__item">
+              <button class="menu__lang__selection__btn">
+                <label
+                  for="lang--es"
+                  class="menu__lang__selection__selector menu__lang__selection__selector--es"
+                  >Español</label
+                >
+              </button>
+            </li>
+            <li class="menu__lang__selection__item">
+              <button class="menu__lang__selection__btn">
+                <label
+                  for="lang--en"
+                  class="menu__lang__selection__selector menu__lang__selection__selector--en"
+                  >English</label
+                >
+              </button>
+            </li>
+            <li class="menu__lang__selection__item">
+              <button class="menu__lang__selection__btn">
+                <label
+                  for="lang--all"
+                  class="menu__lang__selection__selector menu__lang__selection__selector--all"
+                  >Ambos/Both</label
+                >
+              </button>
+            </li>
+          </ul>
+        </section>
+      </nav>
     </header>
-    <section class="content-container responsive-web-design">
-      <h2>Responsive Web Design</h2>
-      <section class="html">
-        <header><h3>HTML and HTML5</h3></header>
+    <main class="content">
+      <section class="content__container responsive-web-design">
+        <header>
+          <h2>
+            <span class="en all"> Responsive Web Design </span>
+            <span class="all"> / </span>
+            <span class="es all"> Diseño Web Responsive </span>
+          </h2>
+        </header>
+        <section class="html">
+          <header><h3>HTML / HTML5</h3></header>
+        </section>
+        <section class="css">
+          <header><h3>CSS</h3></header>
+        </section>
+        <section class="flexbox">
+          <header><h3>CSS Flexbox</h3></header>
+        </section>
+        <section class="grid">
+          <header><h3>CSS Grid</h3></header>
+        </section>
       </section>
-      <section class="basic-css">
-        <header><h3>Basic CSS</h3></header>
+      <!--
+        TODO ADD LATER
+        <section class="content__container ux-ui">
+          <header>
+            <h2>UX/UI</h2>
+          </header>
+          <section class="">
+            <header><h3></h3></header>
+          </section>
+        </section>
+      -->
+      <section
+        class="content__container javascript-algorithms-and-data-structures"
+      >
+        <header><h2>Javascript</h2></header>
+        <section class="basic-javascript">
+          <header>
+            <h3>
+              <span class="en all">Basic Javascript</span>
+              <span class="all">/</span>
+              <span class="es all">Javascript Básico</span>
+            </h3>
+          </header>
+        </section>
+        <section class="es6">
+          <header><h3>ES6</h3></header>
+        </section>
+        <section class="regular-expressions">
+          <header>
+            <h3>
+              <span class="en all">Regular Expressions</span>
+              <span class="all">/</span>
+              <span class="es all">Expresiones Regulares</span>
+            </h3>
+          </header>
+        </section>
+        <section class="debugging">
+          <header><h3>Debugging</h3></header>
+        </section>
+        <section class="data-structures">
+          <header>
+            <h3>
+              <span class="en all">Data Structures</span>
+              <span class="all">/</span>
+              <span class="es all">Estructuras de Datos</span>
+            </h3>
+          </header>
+        </section>
+        <section class="algorithm-scripting">
+          <header>
+            <h3>
+              <span class="en all">Algorithm Scripting</span>
+              <span class="all">/</span>
+              <span class="es all">Algoritmos Programables</span>
+            </h3>
+          </header>
+        </section>
+        <section class="object-oriented-programming">
+          <header>
+            <h3>
+              <span class="en all">Object Oriented Programming</span>
+              <span class="all">/</span>
+              <span class="es all">Programación Orientada a Objetos</span>
+            </h3>
+          </header>
+        </section>
+        <section class="functional-programming">
+          <header>
+            <h3>
+              <span class="en all">Functional Programming</span>
+              <span class="all">/</span>
+              <span class="es all">Programación Funcional</span>
+            </h3>
+          </header>
+        </section>
       </section>
-      <section class="applied-visual-design">
-        <header><h3>Applied Visual Design</h3></header>
+      <section class="content__container front-end-libraries">
+        <h2>
+          <span class="en all">Front End Libraries</span>
+          <span class="all">/</span>
+          <span class="es all">Librerías Front End</span>
+        </h2>
+        <section class="angular">
+          <header><h3>Angular</h3></header>
+        </section>
+        <section class="bootsrap">
+          <header><h3>Bootsrap</h3></header>
+        </section>
+        <section class="jquery">
+          <header><h3>jQuery</h3></header>
+        </section>
+        <section class="react">
+          <header><h3>React</h3></header>
+        </section>
+        <section class="redux">
+          <header><h3>Redux</h3></header>
+        </section>
+        <section class="react-and-redux">
+          <header><h3>React & Redux</h3></header>
+        </section>
+        <section class="sass">
+          <header><h3>Sass</h3></header>
+        </section>
+        <section class="vue">
+          <header><h3>Vue</h3></header>
+        </section>
       </section>
-      <section class="css-flexbox">
-        <header><h3>CSS Flexbox</h3></header>
+      <section class="content__container data-visualization">
+        <h2>
+          <span class="en all">Data Visualization</span>
+          <span class="all">/</span>
+          <span class="es all">Visualización de Datos</span>
+        </h2>
+        <section class="d3">
+          <header><h3>D3</h3></header>
+        </section>
+        <section class="json-apis-and-ajax">
+          <header><h3>JSON APIs & Ajax</h3></header>
+        </section>
       </section>
-      <section class="css-grid">
-        <header><h3>CSS Grid</h3></header>
+      <section class="content__container apis-and-mircroservices">
+        <h2>APIs & Microservices</h2>
+        <section class="npm">
+          <header><h3>
+            <span class="en all">Managing Packages with NPM</span>
+            <span class="all">/</span>
+            <span class="es all">Manejo de Paquetes con NPM</span>
+          </h3></header>
+        </section>
+        <section class="node">
+          <header><h3>Node.js</h3></header>
+        </section>
+        <section class="express">
+          <header><h3>Express</h3></header>
+        </section>
+        <section class="mongodb">
+          <header><h3>MongoDB</h3></header>
+        </section>
+        <section class="mongoose">
+          <header><h3>Mongoose</h3></header>
+        </section>
       </section>
-    </section>
-    <section
-      class="content-container javascript-algorithms-and-data-structures"
-    >
-      <h2>Javascript Algorithms And Data Structures</h2>
-      <section class="basic-javascript">
-        <header><h3>Basic Javascript</h3></header>
+      <section class="content__container coding-interview-prep">
+        <h2>
+          <span class="en all">Coding Interview Prep</span>
+          <span class="all">/</span>
+          <span class="es all">Preparación para Entrevistas de Código</span>
+        </h2>
+        <section class="">
+          <header><h3></h3></header>
+        </section>
       </section>
-      <section class="es6">
-        <header><h3>ES6</h3></header>
-      </section>
-      <section class="regular-expressions">
-        <header><h3>Regular Expressions</h3></header>
-      </section>
-      <section class="debugging">
-        <header><h3>Debugging</h3></header>
-      </section>
-      <section class="basic-data-structures">
-        <header><h3>Basic Data Structures</h3></header>
-      </section>
-      <section class="basic-algorithm-scripting">
-        <header><h3>Basic Algorithm Scripting</h3></header>
-      </section>
-      <section class="object-oriented-programming">
-        <header><h3>Object Oriented Programming</h3></header>
-      </section>
-      <section class="functional-programming">
-        <header><h3>Functional Progrramming</h3></header>
-      </section>
-      <section class="intermediate-algorithm-scripting">
-        <header><h3>Intermediate Algorithm Scripting</h3></header>
-      </section>
-    </section>
-    <section class="content-container front-end-libraries">
-      <h2>Front End Libraries</h2>
-      <section class="angular">
-        <header><h3>Angular</h3></header>
-      </section>
-      <section class="bootsrap">
-        <header><h3>Bootsrap</h3></header>
-      </section>
-      <section class="jquery">
-        <header><h3>jQuery</h3></header>
-      </section>
-      <section class="react">
-        <header><h3>React</h3></header>
-      </section>
-      <section class="redux">
-        <header><h3>Redux</h3></header>
-      </section>
-      <section class="react-and-redux">
-        <header><h3>React and Redux</h3></header>
-      </section>
-      <section class="sass">
-        <header><h3>Sass</h3></header>
-      </section>
-      <section class="vue">
-        <header><h3>Vue</h3></header>
-      </section>
-    </section>
-    <section class="content-container data-visualization">
-      <h2>Data Visualization</h2>
-      <section class="d3">
-        <header><h3>D3</h3></header>
-      </section>
-      <section class="json-apis-and-ajax">
-        <header><h3>JSON APIs and Ajax</h3></header>
-      </section>
-    </section>
-    <section class="content-container apis-and-mircroservices">
-      <h2>APIs and Microservices</h2>
-      <section class="npm">
-        <header><h3>Managing Packages with NPM</h3></header>
-      </section>
-      <section class="node">
-        <header><h3>Node.js</h3></header>
-      </section>
-      <section class="express">
-        <header><h3>Express</h3></header>
-      </section>
-      <section class="mongodb">
-        <header><h3>MongoDB</h3></header>
-      </section>
-      <section class="mongoose">
-        <header><h3>Mongoose</h3></header>
-      </section>
-    </section>
-    <section class="content-container coding-interview-prep">
-      <h2>Coding Interview Prep</h2>
-      <section class="">
-        <header><h3></h3></header>
-      </section>
-    </section>
-    <aside class="language-selector"></aside>
+    </main>
+    <!--
+        CHECK IF IT STAYS
+      <aside class="language-selector">
+
+      </aside>
+    -->
     <div class="jumbotron">
       <div class="container">
         <div class="wiki-header">

@@ -1,25 +1,77 @@
-body {
-    font-family: 'Open Sans', sans-serif;
-    padding-top: 0px;
+* {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.selector {
+  display: none;
+}
+
+.menu {
+}
+
+.menu__lang__selection__item {
+  list-style-type: none;
+  display: flex;
+}
+
+.menu__lang__selection__btn {
+  outline-color: #f5f5f5;
+}
+
+.menu__lang__selection__selector {
+  background-color: #0f1077;
+  color: white;
+  cursor: pointer;
+  display: block;
+  padding: 1rem;
+  text-align: center;
+  transition: background-color 0.4s ease;
+  width: 10rem;
+}
+
+.menu__lang__selection__selector:hover {
+  background-color: #065a82;
+}
+
+.selector--en:checked ~ .menu .menu__lang__selection__selector--en,
+.selector--es:checked ~ .menu .menu__lang__selection__selector--es,
+.selector--all:checked ~ .menu .menu__lang__selection__selector--all {
+  background-color: #2e95b7;
+}
+
+.selector--en:checked ~ .content .en,
+.selector--es:checked ~ .content .es,
+.selector--all:checked ~ .content .all {
 }
 
 a,
 a:hover,
 a:focus,
 a:active {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .bg-grey {
-    background-color: #f5f5f5;
+  background-color: #f5f5f5;
 }
 
 .jumbotron {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .wiki-header {
-    margin-bottom: 70px;
+  margin-bottom: 70px;
 }
